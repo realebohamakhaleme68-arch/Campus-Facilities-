@@ -1,0 +1,1305 @@
+==============================================================================
+UNIVERSITY WEEKLY LECTURE TIMETABLE
+Monday - Friday | Teaching hours 07:00 - 17:00
+Rooms are NOT occupied every hour or every day; unlisted times are FREE.
+==============================================================================
+
+##############################################################################
+COMPUTING DEPARTMENT LABS
+##############################################################################
+
+ROOM: Cisco Lab
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 08:00  NET305  Network Security (CCNA)            Prof. Nkuebe
+  16:00 - 17:00  NET201  Computer Networks                  Dr. Ntsane
+TUESDAY:
+  11:00 - 13:00  ICT110  Introduction to ICT                Prof. Nkuebe
+  13:00 - 16:00  CMP230  Database Systems Lab               Ms. Seeiso
+  16:00 - 17:00  NET201  Computer Networks                  Dr. Ramokoena
+WEDNESDAY:
+  07:00 - 09:00  CMP230  Database Systems Lab               Dr. Ntsane
+  09:00 - 11:00  ICT110  Introduction to ICT                Prof. Khasu
+  12:00 - 15:00  NET201  Computer Networks                  Ms. Mohale
+THURSDAY:
+  09:00 - 12:00  CMP230  Database Systems Lab               Prof. Nkuebe
+FRIDAY:
+  12:00 - 14:00  NET201  Computer Networks                  Ms. Seeiso
+
+ROOM: ICT Lab
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  11:00 - 13:00  ICT110  Introduction to ICT                Dr. Matsoso
+WEDNESDAY:
+  09:00 - 10:00  ICT220  Systems Administration             Mr. Tau
+  12:00 - 14:00  ICT220  Systems Administration             Prof. Nkuebe
+THURSDAY:
+  07:00 - 09:00  ICT220  Systems Administration             Mr. Mokoena
+  10:00 - 11:00  ICT220  Systems Administration             Mr. Lebakeng
+  14:00 - 15:00  CMP230  Database Systems Lab               Dr. Molapo
+FRIDAY:
+  08:00 - 10:00  CMP230  Database Systems Lab               Mr. Lebakeng
+  14:00 - 16:00  ICT220  Systems Administration             Mr. Lebakeng
+  16:00 - 17:00  NET201  Computer Networks                  Ms. Mohale
+
+##############################################################################
+CMP LECTURE ROOMS
+##############################################################################
+
+ROOM: CMP-101
+------------------------------------------------------------------------------
+MONDAY:
+  10:00 - 13:00  CMP203  Software Engineering               Ms. Mofokeng
+  13:00 - 15:00  CMP203  Software Engineering               Dr. Molapo
+  16:00 - 17:00  CMP101  Programming Fundamentals           Prof. Khasu
+TUESDAY:
+  09:00 - 12:00  CMP201  Operating Systems                  Ms. Seeiso
+  12:00 - 14:00  CMP101  Programming Fundamentals           Prof. Khasu
+WEDNESDAY:
+  09:00 - 11:00  CMP310  Web Development                    Ms. Mofokeng
+  11:00 - 14:00  CMP101  Programming Fundamentals           Ms. Thabane
+  15:00 - 16:00  CMP203  Software Engineering               Ms. Mofokeng
+THURSDAY:
+  09:00 - 11:00  CMP301  Artificial Intelligence            Mr. Mokoena
+  11:00 - 13:00  CMP203  Software Engineering               Dr. Ntsane
+  14:00 - 15:00  CMP203  Software Engineering               Mr. Sekonyela
+  15:00 - 17:00  CMP201  Operating Systems                  Prof. Khasu
+FRIDAY:
+  08:00 - 11:00  CMP102  Data Structures                    Mr. Sekonyela
+  15:00 - 16:00  CMP102  Data Structures                    Ms. Thabane
+  16:00 - 17:00  CMP203  Software Engineering               Dr. Matsoso
+
+ROOM: CMP-102
+------------------------------------------------------------------------------
+MONDAY:
+  10:00 - 11:00  CMP201  Operating Systems                  Mr. Mokoena
+  11:00 - 13:00  CMP101  Programming Fundamentals           Mr. Lebakeng
+  16:00 - 17:00  CMP301  Artificial Intelligence            Ms. Mohale
+TUESDAY:
+  07:00 - 09:00  CMP101  Programming Fundamentals           Ms. Mohale
+  09:00 - 10:00  CMP201  Operating Systems                  Mr. Tau
+  12:00 - 14:00  CMP201  Operating Systems                  Mr. Tau
+  15:00 - 17:00  CMP102  Data Structures                    Dr. Ntsane
+WEDNESDAY:
+  07:00 - 09:00  CMP203  Software Engineering               Dr. Molapo
+  09:00 - 11:00  CMP101  Programming Fundamentals           Dr. Ntsane
+  11:00 - 13:00  CMP201  Operating Systems                  Mr. Lebakeng
+THURSDAY:
+  07:00 - 10:00  CMP203  Software Engineering               Dr. Matsoso
+  15:00 - 17:00  CMP101  Programming Fundamentals           Mr. Tau
+FRIDAY:
+  08:00 - 10:00  CMP201  Operating Systems                  Ms. Mofokeng
+  12:00 - 15:00  CMP201  Operating Systems                  Dr. Matsoso
+
+ROOM: CMP-103
+------------------------------------------------------------------------------
+MONDAY:
+  09:00 - 10:00  CMP101  Programming Fundamentals           Dr. Molapo
+  10:00 - 12:00  CMP301  Artificial Intelligence            Prof. Nkuebe
+  13:00 - 16:00  CMP301  Artificial Intelligence            Ms. Thabane
+  16:00 - 17:00  CMP203  Software Engineering               Mr. Sekonyela
+TUESDAY:
+  09:00 - 10:00  CMP310  Web Development                    Ms. Mofokeng
+  12:00 - 14:00  CMP102  Data Structures                    Ms. Thabane
+  14:00 - 16:00  CMP301  Artificial Intelligence            Dr. Ramokoena
+  16:00 - 17:00  CMP102  Data Structures                    Mr. Tau
+WEDNESDAY:
+  12:00 - 14:00  CMP101  Programming Fundamentals           Ms. Mofokeng
+  16:00 - 17:00  CMP102  Data Structures                    Ms. Seeiso
+THURSDAY:
+  07:00 - 10:00  CMP310  Web Development                    Ms. Mohale
+  11:00 - 13:00  CMP201  Operating Systems                  Ms. Thabane
+  13:00 - 16:00  CMP310  Web Development                    Ms. Seeiso
+FRIDAY:
+  09:00 - 12:00  CMP102  Data Structures                    Dr. Ramokoena
+
+ROOM: CMP-104
+------------------------------------------------------------------------------
+MONDAY:
+  08:00 - 10:00  CMP301  Artificial Intelligence            Ms. Mofokeng
+  10:00 - 11:00  CMP101  Programming Fundamentals           Ms. Seeiso
+  11:00 - 13:00  CMP301  Artificial Intelligence            Dr. Molapo
+  14:00 - 16:00  CMP301  Artificial Intelligence            Mr. Mokoena
+  16:00 - 17:00  CMP201  Operating Systems                  Ms. Mofokeng
+TUESDAY:
+  07:00 - 09:00  CMP102  Data Structures                    Dr. Ntsane
+  09:00 - 11:00  CMP201  Operating Systems                  Mr. Mokoena
+  12:00 - 13:00  CMP301  Artificial Intelligence            Mr. Lebakeng
+  14:00 - 16:00  CMP310  Web Development                    Dr. Matsoso
+  16:00 - 17:00  CMP301  Artificial Intelligence            Mr. Mokoena
+WEDNESDAY:
+  11:00 - 13:00  CMP101  Programming Fundamentals           Prof. Khasu
+  13:00 - 15:00  CMP301  Artificial Intelligence            Dr. Matsoso
+  15:00 - 16:00  CMP201  Operating Systems                  Prof. Khasu
+  16:00 - 17:00  CMP203  Software Engineering               Dr. Ntsane
+THURSDAY:
+  08:00 - 11:00  CMP101  Programming Fundamentals           Mr. Tau
+  16:00 - 17:00  CMP203  Software Engineering               Prof. Nkuebe
+FRIDAY:
+  08:00 - 10:00  CMP203  Software Engineering               Dr. Matsoso
+  11:00 - 14:00  CMP203  Software Engineering               Mr. Sekonyela
+  14:00 - 17:00  CMP102  Data Structures                    Prof. Khasu
+
+ROOM: CMP-105
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  08:00 - 10:00  CMP301  Artificial Intelligence            Prof. Letsie
+  10:00 - 13:00  CMP310  Web Development                    Mr. Sekonyela
+  13:00 - 15:00  CMP310  Web Development                    Mr. Lebakeng
+  15:00 - 17:00  CMP310  Web Development                    Prof. Nkuebe
+WEDNESDAY:
+  09:00 - 12:00  CMP310  Web Development                    Mr. Mokoena
+  12:00 - 14:00  CMP102  Data Structures                    Dr. Ramokoena
+THURSDAY:
+  09:00 - 11:00  CMP310  Web Development                    Prof. Letsie
+  13:00 - 15:00  CMP203  Software Engineering               Dr. Matsoso
+  15:00 - 17:00  CMP101  Programming Fundamentals           Mr. Lebakeng
+FRIDAY:
+  08:00 - 09:00  CMP102  Data Structures                    Ms. Mohale
+  11:00 - 13:00  CMP310  Web Development                    Dr. Ntsane
+  13:00 - 16:00  CMP310  Web Development                    Prof. Nkuebe
+
+ROOM: CMP-106
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 09:00  CMP203  Software Engineering               Dr. Molapo
+  09:00 - 11:00  CMP203  Software Engineering               Mr. Lebakeng
+  11:00 - 13:00  CMP301  Artificial Intelligence            Dr. Ramokoena
+  13:00 - 15:00  CMP201  Operating Systems                  Prof. Letsie
+  16:00 - 17:00  CMP201  Operating Systems                  Mr. Lebakeng
+TUESDAY:
+  08:00 - 11:00  CMP201  Operating Systems                  Ms. Thabane
+WEDNESDAY:
+  15:00 - 16:00  CMP301  Artificial Intelligence            Prof. Nkuebe
+  16:00 - 17:00  CMP301  Artificial Intelligence            Mr. Lebakeng
+THURSDAY:
+  10:00 - 12:00  CMP102  Data Structures                    Dr. Matsoso
+  16:00 - 17:00  CMP102  Data Structures                    Ms. Seeiso
+FRIDAY:
+  08:00 - 11:00  CMP301  Artificial Intelligence            Prof. Nkuebe
+  11:00 - 13:00  CMP310  Web Development                    Mr. Mokoena
+  13:00 - 14:00  CMP310  Web Development                    Dr. Molapo
+  14:00 - 16:00  CMP102  Data Structures                    Mr. Mokoena
+  16:00 - 17:00  CMP102  Data Structures                    Mr. Lebakeng
+
+ROOM: CMP-107
+------------------------------------------------------------------------------
+MONDAY:
+  10:00 - 13:00  CMP301  Artificial Intelligence            Prof. Letsie
+  13:00 - 15:00  CMP301  Artificial Intelligence            Mr. Sekonyela
+TUESDAY:
+  07:00 - 08:00  CMP203  Software Engineering               Dr. Molapo
+  08:00 - 10:00  CMP301  Artificial Intelligence            Prof. Nkuebe
+  12:00 - 13:00  CMP102  Data Structures                    Dr. Ntsane
+  14:00 - 17:00  CMP102  Data Structures                    Ms. Mofokeng
+WEDNESDAY:
+  07:00 - 10:00  CMP102  Data Structures                    Mr. Lebakeng
+  10:00 - 13:00  CMP310  Web Development                    Ms. Seeiso
+  14:00 - 16:00  CMP201  Operating Systems                  Mr. Lebakeng
+THURSDAY:
+  09:00 - 11:00  CMP101  Programming Fundamentals           Ms. Thabane
+  11:00 - 13:00  CMP101  Programming Fundamentals           Mr. Mokoena
+  13:00 - 16:00  CMP102  Data Structures                    Ms. Mofokeng
+  16:00 - 17:00  CMP310  Web Development                    Dr. Ntsane
+FRIDAY:
+  07:00 - 08:00  CMP203  Software Engineering               Dr. Ramokoena
+  09:00 - 11:00  CMP203  Software Engineering               Mr. Mokoena
+  11:00 - 13:00  CMP301  Artificial Intelligence            Ms. Mohale
+
+##############################################################################
+FTF LECTURE ROOMS
+##############################################################################
+
+ROOM: FTF-101
+------------------------------------------------------------------------------
+MONDAY:
+  08:00 - 10:00  FTF210  Communication Skills               Mr. Mokoena
+  11:00 - 12:00  FTF201  Technical Drawing                  Ms. Mohale
+  12:00 - 13:00  FTF101  Engineering Mathematics I          Mr. Tau
+  15:00 - 17:00  FTF301  Project Management                 Dr. Matsoso
+TUESDAY:
+  07:00 - 09:00  FTF102  Applied Physics                    Mr. Mokoena
+  09:00 - 10:00  FTF102  Applied Physics                    Prof. Khasu
+  10:00 - 11:00  FTF210  Communication Skills               Prof. Letsie
+  15:00 - 17:00  FTF201  Technical Drawing                  Mr. Sekonyela
+WEDNESDAY:
+  09:00 - 11:00  FTF301  Project Management                 Dr. Ramokoena
+  11:00 - 14:00  FTF102  Applied Physics                    Mr. Tau
+  14:00 - 16:00  FTF101  Engineering Mathematics I          Ms. Seeiso
+THURSDAY:
+  07:00 - 09:00  FTF202  Materials Science                  Dr. Molapo
+  11:00 - 13:00  FTF201  Technical Drawing                  Mr. Lebakeng
+  15:00 - 17:00  FTF301  Project Management                 Prof. Letsie
+FRIDAY:
+  14:00 - 15:00  FTF102  Applied Physics                    Dr. Ntsane
+  15:00 - 17:00  FTF301  Project Management                 Dr. Ramokoena
+
+ROOM: FTF-102
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 09:00  FTF101  Engineering Mathematics I          Ms. Mohale
+  12:00 - 15:00  FTF301  Project Management                 Dr. Ntsane
+  15:00 - 17:00  FTF301  Project Management                 Prof. Letsie
+TUESDAY:
+  11:00 - 12:00  FTF102  Applied Physics                    Ms. Mofokeng
+  12:00 - 14:00  FTF101  Engineering Mathematics I          Mr. Mokoena
+  15:00 - 17:00  FTF101  Engineering Mathematics I          Mr. Lebakeng
+WEDNESDAY:
+  07:00 - 09:00  FTF202  Materials Science                  Prof. Letsie
+  10:00 - 13:00  FTF202  Materials Science                  Dr. Molapo
+  13:00 - 14:00  FTF202  Materials Science                  Mr. Lebakeng
+THURSDAY:
+  07:00 - 09:00  FTF301  Project Management                 Dr. Ramokoena
+  09:00 - 11:00  FTF202  Materials Science                  Dr. Molapo
+  11:00 - 12:00  FTF210  Communication Skills               Mr. Sekonyela
+  15:00 - 17:00  FTF210  Communication Skills               Mr. Mokoena
+FRIDAY:
+  07:00 - 10:00  FTF301  Project Management                 Dr. Molapo
+  10:00 - 13:00  FTF101  Engineering Mathematics I          Mr. Tau
+  14:00 - 16:00  FTF301  Project Management                 Mr. Sekonyela
+  16:00 - 17:00  FTF210  Communication Skills               Dr. Ntsane
+
+ROOM: FTF-103
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  07:00 - 09:00  FTF102  Applied Physics                    Mr. Tau
+  10:00 - 12:00  FTF102  Applied Physics                    Prof. Khasu
+  13:00 - 14:00  FTF101  Engineering Mathematics I          Mr. Sekonyela
+  16:00 - 17:00  FTF201  Technical Drawing                  Ms. Mohale
+WEDNESDAY:
+  09:00 - 12:00  FTF202  Materials Science                  Ms. Mohale
+  14:00 - 15:00  FTF102  Applied Physics                    Ms. Thabane
+  16:00 - 17:00  FTF102  Applied Physics                    Prof. Nkuebe
+THURSDAY:
+  07:00 - 08:00  FTF102  Applied Physics                    Ms. Seeiso
+  08:00 - 10:00  FTF210  Communication Skills               Ms. Seeiso
+  10:00 - 12:00  FTF301  Project Management                 Ms. Mofokeng
+  14:00 - 17:00  FTF102  Applied Physics                    Ms. Thabane
+FRIDAY:
+  07:00 - 09:00  FTF201  Technical Drawing                  Mr. Mokoena
+  11:00 - 14:00  FTF210  Communication Skills               Mr. Lebakeng
+
+ROOM: FTF-104
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  08:00 - 10:00  FTF102  Applied Physics                    Dr. Matsoso
+  11:00 - 12:00  FTF101  Engineering Mathematics I          Ms. Thabane
+  12:00 - 15:00  FTF301  Project Management                 Prof. Letsie
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  07:00 - 09:00  FTF210  Communication Skills               Dr. Ntsane
+  10:00 - 11:00  FTF102  Applied Physics                    Dr. Ramokoena
+  12:00 - 14:00  FTF101  Engineering Mathematics I          Prof. Letsie
+  14:00 - 16:00  FTF202  Materials Science                  Prof. Nkuebe
+FRIDAY:
+  11:00 - 12:00  FTF210  Communication Skills               Prof. Nkuebe
+  15:00 - 17:00  FTF201  Technical Drawing                  Dr. Molapo
+
+ROOM: FTF-105
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 10:00  FTF210  Communication Skills               Prof. Letsie
+  10:00 - 12:00  FTF202  Materials Science                  Ms. Thabane
+  12:00 - 14:00  FTF101  Engineering Mathematics I          Prof. Khasu
+  16:00 - 17:00  FTF101  Engineering Mathematics I          Ms. Thabane
+TUESDAY:
+  08:00 - 09:00  FTF301  Project Management                 Ms. Mofokeng
+  10:00 - 12:00  FTF102  Applied Physics                    Mr. Tau
+  15:00 - 17:00  FTF301  Project Management                 Prof. Khasu
+WEDNESDAY:
+  09:00 - 12:00  FTF102  Applied Physics                    Mr. Sekonyela
+  13:00 - 15:00  FTF201  Technical Drawing                  Dr. Molapo
+  16:00 - 17:00  FTF301  Project Management                 Ms. Mofokeng
+THURSDAY:
+  07:00 - 08:00  FTF210  Communication Skills               Mr. Tau
+  08:00 - 11:00  FTF301  Project Management                 Prof. Khasu
+FRIDAY:
+  07:00 - 10:00  FTF201  Technical Drawing                  Prof. Letsie
+  11:00 - 13:00  FTF201  Technical Drawing                  Prof. Khasu
+  13:00 - 16:00  FTF202  Materials Science                  Prof. Letsie
+
+ROOM: FTF-106
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 08:00  FTF101  Engineering Mathematics I          Ms. Seeiso
+  09:00 - 11:00  FTF101  Engineering Mathematics I          Mr. Sekonyela
+  11:00 - 12:00  FTF102  Applied Physics                    Mr. Sekonyela
+  12:00 - 14:00  FTF301  Project Management                 Prof. Nkuebe
+  14:00 - 15:00  FTF201  Technical Drawing                  Mr. Lebakeng
+  15:00 - 17:00  FTF102  Applied Physics                    Ms. Seeiso
+TUESDAY:
+  07:00 - 08:00  FTF101  Engineering Mathematics I          Prof. Nkuebe
+  10:00 - 13:00  FTF301  Project Management                 Dr. Ramokoena
+  13:00 - 15:00  FTF202  Materials Science                  Ms. Mohale
+WEDNESDAY:
+  08:00 - 10:00  FTF201  Technical Drawing                  Dr. Matsoso
+  14:00 - 17:00  FTF202  Materials Science                  Dr. Ramokoena
+THURSDAY:
+  07:00 - 08:00  FTF201  Technical Drawing                  Prof. Nkuebe
+  11:00 - 14:00  FTF301  Project Management                 Mr. Tau
+  14:00 - 16:00  FTF102  Applied Physics                    Dr. Ramokoena
+  16:00 - 17:00  FTF102  Applied Physics                    Dr. Ramokoena
+FRIDAY:
+  07:00 - 08:00  FTF101  Engineering Mathematics I          Mr. Lebakeng
+  09:00 - 11:00  FTF102  Applied Physics                    Ms. Mohale
+  11:00 - 13:00  FTF301  Project Management                 Dr. Molapo
+  14:00 - 16:00  FTF202  Materials Science                  Mr. Tau
+
+ROOM: FTF-107
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 09:00  FTF301  Project Management                 Mr. Lebakeng
+  13:00 - 15:00  FTF201  Technical Drawing                  Mr. Tau
+  15:00 - 17:00  FTF301  Project Management                 Mr. Tau
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  07:00 - 09:00  FTF102  Applied Physics                    Mr. Mokoena
+  10:00 - 13:00  FTF101  Engineering Mathematics I          Prof. Letsie
+  15:00 - 17:00  FTF102  Applied Physics                    Prof. Letsie
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  09:00 - 11:00  FTF301  Project Management                 Prof. Khasu
+
+ROOM: FTF-108
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  09:00 - 12:00  FTF210  Communication Skills               Dr. Ntsane
+  14:00 - 16:00  FTF202  Materials Science                  Ms. Thabane
+WEDNESDAY:
+  08:00 - 11:00  FTF201  Technical Drawing                  Ms. Thabane
+THURSDAY:
+  07:00 - 09:00  FTF301  Project Management                 Prof. Letsie
+  11:00 - 14:00  FTF102  Applied Physics                    Dr. Molapo
+  15:00 - 17:00  FTF301  Project Management                 Mr. Sekonyela
+FRIDAY:
+  14:00 - 17:00  FTF201  Technical Drawing                  Ms. Seeiso
+
+ROOM: FTF-109
+------------------------------------------------------------------------------
+MONDAY:
+  10:00 - 11:00  FTF210  Communication Skills               Ms. Mohale
+  11:00 - 12:00  FTF301  Project Management                 Dr. Ntsane
+  12:00 - 14:00  FTF301  Project Management                 Dr. Matsoso
+TUESDAY:
+  09:00 - 12:00  FTF201  Technical Drawing                  Ms. Mohale
+  15:00 - 17:00  FTF201  Technical Drawing                  Prof. Letsie
+WEDNESDAY:
+  07:00 - 08:00  FTF301  Project Management                 Dr. Matsoso
+  08:00 - 09:00  FTF210  Communication Skills               Mr. Sekonyela
+  09:00 - 10:00  FTF210  Communication Skills               Dr. Molapo
+  12:00 - 15:00  FTF101  Engineering Mathematics I          Mr. Mokoena
+  16:00 - 17:00  FTF102  Applied Physics                    Mr. Tau
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  07:00 - 09:00  FTF101  Engineering Mathematics I          Ms. Thabane
+  10:00 - 12:00  FTF101  Engineering Mathematics I          Prof. Letsie
+  12:00 - 15:00  FTF102  Applied Physics                    Dr. Ramokoena
+
+ROOM: FTF-110
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 09:00  FTF102  Applied Physics                    Mr. Tau
+  09:00 - 10:00  FTF101  Engineering Mathematics I          Ms. Mohale
+  10:00 - 11:00  FTF301  Project Management                 Dr. Molapo
+TUESDAY:
+  07:00 - 09:00  FTF102  Applied Physics                    Mr. Sekonyela
+  11:00 - 12:00  FTF102  Applied Physics                    Mr. Lebakeng
+  16:00 - 17:00  FTF102  Applied Physics                    Dr. Matsoso
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  13:00 - 14:00  FTF102  Applied Physics                    Prof. Khasu
+  16:00 - 17:00  FTF202  Materials Science                  Ms. Mohale
+FRIDAY:
+  (No classes - room free)
+
+ROOM: FTF-111
+------------------------------------------------------------------------------
+MONDAY:
+  08:00 - 11:00  FTF101  Engineering Mathematics I          Dr. Ntsane
+  11:00 - 12:00  FTF202  Materials Science                  Prof. Khasu
+  13:00 - 15:00  FTF201  Technical Drawing                  Ms. Seeiso
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  07:00 - 09:00  FTF202  Materials Science                  Ms. Mohale
+  10:00 - 12:00  FTF102  Applied Physics                    Dr. Matsoso
+  14:00 - 16:00  FTF102  Applied Physics                    Mr. Tau
+  16:00 - 17:00  FTF201  Technical Drawing                  Prof. Khasu
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  08:00 - 10:00  FTF102  Applied Physics                    Dr. Ntsane
+  11:00 - 13:00  FTF301  Project Management                 Ms. Mofokeng
+  13:00 - 16:00  FTF301  Project Management                 Ms. Mohale
+
+ROOM: FTF-112
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 10:00  FTF101  Engineering Mathematics I          Dr. Matsoso
+  10:00 - 11:00  FTF102  Applied Physics                    Prof. Khasu
+  13:00 - 15:00  FTF101  Engineering Mathematics I          Ms. Mofokeng
+TUESDAY:
+  08:00 - 09:00  FTF301  Project Management                 Prof. Khasu
+  09:00 - 10:00  FTF301  Project Management                 Dr. Molapo
+  12:00 - 13:00  FTF102  Applied Physics                    Ms. Seeiso
+  16:00 - 17:00  FTF102  Applied Physics                    Ms. Thabane
+WEDNESDAY:
+  11:00 - 12:00  FTF201  Technical Drawing                  Dr. Ramokoena
+  13:00 - 16:00  FTF301  Project Management                 Dr. Ntsane
+  16:00 - 17:00  FTF201  Technical Drawing                  Ms. Thabane
+THURSDAY:
+  09:00 - 11:00  FTF301  Project Management                 Mr. Sekonyela
+  11:00 - 14:00  FTF202  Materials Science                  Dr. Ramokoena
+FRIDAY:
+  07:00 - 08:00  FTF210  Communication Skills               Mr. Tau
+  08:00 - 10:00  FTF301  Project Management                 Ms. Seeiso
+  14:00 - 17:00  FTF201  Technical Drawing                  Ms. Mofokeng
+
+ROOM: FTF-113
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  07:00 - 09:00  FTF101  Engineering Mathematics I          Mr. Lebakeng
+  10:00 - 13:00  FTF301  Project Management                 Dr. Molapo
+  16:00 - 17:00  FTF202  Materials Science                  Dr. Molapo
+WEDNESDAY:
+  08:00 - 09:00  FTF202  Materials Science                  Mr. Tau
+  16:00 - 17:00  FTF202  Materials Science                  Dr. Matsoso
+THURSDAY:
+  10:00 - 11:00  FTF101  Engineering Mathematics I          Ms. Seeiso
+  11:00 - 12:00  FTF101  Engineering Mathematics I          Prof. Letsie
+  14:00 - 15:00  FTF202  Materials Science                  Prof. Letsie
+FRIDAY:
+  (No classes - room free)
+
+ROOM: FTF-114
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  09:00 - 10:00  FTF210  Communication Skills               Mr. Lebakeng
+WEDNESDAY:
+  07:00 - 08:00  FTF102  Applied Physics                    Prof. Khasu
+THURSDAY:
+  07:00 - 08:00  FTF102  Applied Physics                    Mr. Lebakeng
+  11:00 - 12:00  FTF210  Communication Skills               Prof. Khasu
+FRIDAY:
+  07:00 - 09:00  FTF202  Materials Science                  Prof. Khasu
+  13:00 - 14:00  FTF210  Communication Skills               Mr. Tau
+  15:00 - 16:00  FTF101  Engineering Mathematics I          Dr. Ntsane
+  16:00 - 17:00  FTF202  Materials Science                  Prof. Letsie
+
+ROOM: FTF-115
+------------------------------------------------------------------------------
+MONDAY:
+  11:00 - 12:00  FTF101  Engineering Mathematics I          Mr. Tau
+TUESDAY:
+  07:00 - 09:00  FTF202  Materials Science                  Ms. Seeiso
+  09:00 - 10:00  FTF301  Project Management                 Mr. Sekonyela
+WEDNESDAY:
+  08:00 - 09:00  FTF101  Engineering Mathematics I          Ms. Mofokeng
+  12:00 - 13:00  FTF201  Technical Drawing                  Dr. Ntsane
+  15:00 - 17:00  FTF301  Project Management                 Mr. Mokoena
+THURSDAY:
+  07:00 - 09:00  FTF201  Technical Drawing                  Mr. Sekonyela
+FRIDAY:
+  09:00 - 11:00  FTF102  Applied Physics                    Ms. Thabane
+
+ROOM: FTF-116
+------------------------------------------------------------------------------
+MONDAY:
+  08:00 - 09:00  FTF202  Materials Science                  Prof. Nkuebe
+  12:00 - 13:00  FTF201  Technical Drawing                  Ms. Mohale
+  13:00 - 14:00  FTF210  Communication Skills               Mr. Lebakeng
+TUESDAY:
+  15:00 - 16:00  FTF210  Communication Skills               Ms. Mohale
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  11:00 - 13:00  FTF102  Applied Physics                    Ms. Seeiso
+  16:00 - 17:00  FTF210  Communication Skills               Dr. Matsoso
+FRIDAY:
+  (No classes - room free)
+
+ROOM: FTF-117
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  08:00 - 09:00  FTF202  Materials Science                  Dr. Molapo
+  13:00 - 15:00  FTF102  Applied Physics                    Dr. Ntsane
+WEDNESDAY:
+  08:00 - 09:00  FTF102  Applied Physics                    Prof. Nkuebe
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  16:00 - 17:00  FTF301  Project Management                 Prof. Nkuebe
+
+ROOM: FTF-118
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  07:00 - 08:00  FTF101  Engineering Mathematics I          Dr. Matsoso
+WEDNESDAY:
+  11:00 - 12:00  FTF202  Materials Science                  Dr. Ntsane
+  13:00 - 15:00  FTF102  Applied Physics                    Prof. Khasu
+  15:00 - 17:00  FTF201  Technical Drawing                  Ms. Mohale
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  11:00 - 12:00  FTF102  Applied Physics                    Ms. Seeiso
+
+ROOM: FTF-119
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 08:00  FTF201  Technical Drawing                  Dr. Ntsane
+TUESDAY:
+  07:00 - 08:00  FTF210  Communication Skills               Prof. Khasu
+WEDNESDAY:
+  13:00 - 15:00  FTF101  Engineering Mathematics I          Prof. Letsie
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  11:00 - 12:00  FTF201  Technical Drawing                  Ms. Thabane
+  14:00 - 15:00  FTF202  Materials Science                  Dr. Molapo
+
+##############################################################################
+DTF LECTURE ROOMS
+##############################################################################
+
+ROOM: DTF-101
+------------------------------------------------------------------------------
+MONDAY:
+  09:00 - 11:00  DTF110  Textile Technology                 Mr. Tau
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-102
+------------------------------------------------------------------------------
+MONDAY:
+  09:00 - 10:00  DTF240  Colour Theory                      Prof. Khasu
+TUESDAY:
+  14:00 - 15:00  DTF301  Design Studio                      Mr. Mokoena
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  07:00 - 08:00  DTF205  Fashion Illustration               Prof. Khasu
+  12:00 - 13:00  DTF205  Fashion Illustration               Prof. Khasu
+FRIDAY:
+  10:00 - 11:00  DTF301  Design Studio                      Ms. Mofokeng
+
+ROOM: DTF-103
+------------------------------------------------------------------------------
+MONDAY:
+  09:00 - 10:00  DTF110  Textile Technology                 Prof. Nkuebe
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  13:00 - 15:00  DTF220  Pattern Making                     Dr. Ntsane
+FRIDAY:
+  14:00 - 15:00  DTF101  Design Principles                  Ms. Thabane
+
+ROOM: DTF-104
+------------------------------------------------------------------------------
+MONDAY:
+  12:00 - 13:00  DTF220  Pattern Making                     Mr. Sekonyela
+TUESDAY:
+  14:00 - 16:00  DTF240  Colour Theory                      Mr. Tau
+WEDNESDAY:
+  10:00 - 11:00  DTF110  Textile Technology                 Mr. Lebakeng
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-105
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  13:00 - 14:00  DTF240  Colour Theory                      Ms. Seeiso
+  14:00 - 15:00  DTF301  Design Studio                      Prof. Nkuebe
+THURSDAY:
+  12:00 - 14:00  DTF240  Colour Theory                      Mr. Sekonyela
+FRIDAY:
+  16:00 - 17:00  DTF110  Textile Technology                 Mr. Tau
+
+ROOM: DTF-106
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  07:00 - 08:00  DTF220  Pattern Making                     Ms. Thabane
+  10:00 - 11:00  DTF240  Colour Theory                      Prof. Nkuebe
+  12:00 - 13:00  DTF205  Fashion Illustration               Ms. Mohale
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-107
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  14:00 - 15:00  DTF220  Pattern Making                     Prof. Nkuebe
+WEDNESDAY:
+  07:00 - 09:00  DTF220  Pattern Making                     Dr. Ramokoena
+  10:00 - 11:00  DTF110  Textile Technology                 Mr. Tau
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  10:00 - 11:00  DTF205  Fashion Illustration               Dr. Ntsane
+  15:00 - 16:00  DTF301  Design Studio                      Dr. Matsoso
+
+ROOM: DTF-108
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  07:00 - 08:00  DTF240  Colour Theory                      Mr. Sekonyela
+  15:00 - 16:00  DTF301  Design Studio                      Ms. Thabane
+THURSDAY:
+  12:00 - 14:00  DTF301  Design Studio                      Prof. Nkuebe
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-109
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  16:00 - 17:00  DTF220  Pattern Making                     Ms. Thabane
+
+ROOM: DTF-110
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  12:00 - 13:00  DTF101  Design Principles                  Dr. Matsoso
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  08:00 - 09:00  DTF101  Design Principles                  Dr. Ramokoena
+  13:00 - 14:00  DTF301  Design Studio                      Prof. Khasu
+
+ROOM: DTF-111
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  08:00 - 09:00  DTF240  Colour Theory                      Prof. Khasu
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-112
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-113
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  07:00 - 08:00  DTF220  Pattern Making                     Prof. Letsie
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  15:00 - 16:00  DTF205  Fashion Illustration               Dr. Molapo
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-114
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  10:00 - 11:00  DTF110  Textile Technology                 Dr. Matsoso
+  11:00 - 12:00  DTF240  Colour Theory                      Prof. Letsie
+  12:00 - 13:00  DTF220  Pattern Making                     Ms. Mofokeng
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-115
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 08:00  DTF101  Design Principles                  Ms. Mofokeng
+TUESDAY:
+  14:00 - 15:00  DTF110  Textile Technology                 Prof. Khasu
+WEDNESDAY:
+  14:00 - 15:00  DTF205  Fashion Illustration               Ms. Mofokeng
+  15:00 - 16:00  DTF110  Textile Technology                 Dr. Molapo
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-116
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-117
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  07:00 - 08:00  DTF205  Fashion Illustration               Mr. Tau
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-118
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 08:00  DTF110  Textile Technology                 Dr. Ramokoena
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-119
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  14:00 - 15:00  DTF110  Textile Technology                 Mr. Lebakeng
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-120
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  07:00 - 08:00  DTF220  Pattern Making                     Ms. Seeiso
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: DTF-121
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+##############################################################################
+ETF LECTURE ROOMS
+##############################################################################
+
+ROOM: ETF-001
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  09:00 - 10:00  ETF101  Circuit Analysis                   Dr. Ramokoena
+FRIDAY:
+  (No classes - room free)
+
+ROOM: ETF-002
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: ETF-003
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  15:00 - 16:00  ETF301  Power Systems                      Mr. Mokoena
+WEDNESDAY:
+  09:00 - 10:00  ETF101  Circuit Analysis                   Prof. Letsie
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+##############################################################################
+BTM LECTURE ROOMS
+##############################################################################
+
+ROOM: BTM-101
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-102
+------------------------------------------------------------------------------
+MONDAY:
+  07:00 - 08:00  BTM102  Financial Accounting               Prof. Khasu
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-103
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-104
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-105
+------------------------------------------------------------------------------
+MONDAY:
+  08:00 - 09:00  BTM220  Entrepreneurship                   Ms. Seeiso
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  12:00 - 13:00  BTM102  Financial Accounting               Ms. Mofokeng
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-106
+------------------------------------------------------------------------------
+MONDAY:
+  15:00 - 16:00  BTM101  Principles of Management           Dr. Molapo
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-107
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  15:00 - 16:00  BTM201  Marketing                          Dr. Matsoso
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-108
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-109
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-110
+------------------------------------------------------------------------------
+MONDAY:
+  15:00 - 16:00  BTM230  Economics                          Ms. Mofokeng
+TUESDAY:
+  13:00 - 14:00  BTM230  Economics                          Dr. Ramokoena
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-111
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  09:00 - 10:00  BTM210  Business Law                       Ms. Mofokeng
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-112
+------------------------------------------------------------------------------
+MONDAY:
+  13:00 - 14:00  BTM301  Strategic Management               Dr. Ramokoena
+TUESDAY:
+  14:00 - 15:00  BTM201  Marketing                          Mr. Sekonyela
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-113
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-114
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-115
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-116
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  07:00 - 08:00  BTM220  Entrepreneurship                   Dr. Ramokoena
+WEDNESDAY:
+  07:00 - 08:00  BTM230  Economics                          Ms. Mofokeng
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-117
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-118
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  10:00 - 11:00  BTM102  Financial Accounting               Mr. Lebakeng
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  13:00 - 14:00  BTM101  Principles of Management           Mr. Mokoena
+
+ROOM: BTM-119
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-120
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-121
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-122
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-123
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: BTM-124
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  10:00 - 11:00  BTM210  Business Law                       Ms. Seeiso
+
+ROOM: BTM-125
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  13:00 - 14:00  BTM201  Marketing                          Ms. Mofokeng
+
+ROOM: BTM-126
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+##############################################################################
+SLT HALL
+##############################################################################
+
+ROOM: SLT-HALL
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  12:00 - 13:00  GEN301  Guest Lecture Series               Prof. Letsie
+
+##############################################################################
+ADDITIONAL BOOKABLE LABS
+##############################################################################
+
+ROOM: FTF-207
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+ROOM: SCE-COMP
+------------------------------------------------------------------------------
+MONDAY:
+  (No classes - room free)
+TUESDAY:
+  (No classes - room free)
+WEDNESDAY:
+  (No classes - room free)
+THURSDAY:
+  (No classes - room free)
+FRIDAY:
+  (No classes - room free)
+
+==============================================================================
+Total scheduled sessions: 440
+END OF TIMETABLE
